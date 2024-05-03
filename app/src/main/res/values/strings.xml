@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Fauna</string>
+
+    <string name="titulo1">Coyote</string>
+    <string name="fauna1">Descripción</string>
+    <string name="fauna1Descripcion">El coyote es un mamífero carnívoro perteneciente a la familia Canidae, que incluye a los perros, lobos y zorros.</string>
+
+    <string name="titulo2">Víbora de cascabel</string>
+    <string name="fauna2">Descripción</string>
+    <string name="fauna2Descripcion">Las víboras de cascabel desempeñan un papel importante en el ecosistema, controlando las poblaciones de roedores y contribuyendo a la biodiversidad de sus hábitats.</string>
+
+    <string name="titulo3">Liebre</string>
+    <string name="fauna3">Descripción</string>
+    <string name="fauna3Descripcion">Las liebres suelen ser más grandes que los conejos, con orejas más largas y patas traseras más largas y fuertes.</string>
+
+    <string name="titulo4">Pecarí</string>
+    <string name="fauna4">Descripción</string>
+    <string name="fauna4Descripcion">El pecarí es similar a un cerdo salvaje, con un cuerpo robusto, patas cortas y un hocico alargado.</string>
+
+    <string name="titulo5">Lince</string>
+    <string name="fauna5">Descripción</string>
+    <string name="fauna5Descripcion">El lince tiene un cuerpo musculoso y patas relativamente largas, lo que le confiere una apariencia ágil y poderosa.</string>
+
+    <string name="titulo6">Zorra</string>
+    <string name="fauna6">Descripción</string>
+    <string name="fauna6Descripcion">Las zorras son de tamaño mediano, con cuerpos delgados y patas relativamente largas. </string>
+
+    <string name="titulo7">Pájaro carpintero</string>
+    <string name="fauna7">Descripción</string>
+    <string name="fauna7Descripcion">Los pájaros carpinteros se alimentan principalmente de insectos que encuentran bajo la corteza de los árboles o en la madera podrida.</string>
+
+    <string name="titulo8">Rata</string>
+    <string name="fauna8">Descripción</string>
+    <string name="fauna8Descripcion">Las ratas son animales sociales que viven en grupos jerárquicos llamados colonias. </string>
+
+    <string name="titulo9">Venado</string>
+    <string name="fauna9">Descripción</string>
+    <string name="fauna9Descripcion">Los venados son animales majestuosos y emblemáticos de muchos ecosistemas terrestres. </string>
+
+    <string name="titulo10">Lagartija</string>
+    <string name="fauna10">Descripción</string>
+    <string name="fauna10Descripcion">Las lagartijas son animales ectotérmicos, lo que significa que dependen de fuentes externas de calor para regular su temperatura corporal.</string>
+</resources>
